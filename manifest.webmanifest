@@ -1,6 +1,6 @@
 {
-  "name": "{{BRAND}}",
-  "short_name": "{{BRAND}}",
+  "name": "OCTIVAI",
+  "short_name": "OCTIVAI",
   "description": "Цифровая студия: разрабатываем сайты, AI-агентов и автоматизацию процессов. От анализа задачи до запуска и поддержки.",
   "lang": "ru",
   "start_url": "/studio-landing-demo/",
