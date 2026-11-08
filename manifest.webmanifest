@@ -1,0 +1,29 @@
+{
+  "name": "{{BRAND}}",
+  "short_name": "{{BRAND}}",
+  "description": "Цифровая студия: разрабатываем сайты, AI-агентов и автоматизацию процессов. От анализа задачи до запуска и поддержки.",
+  "lang": "ru",
+  "start_url": "/studio-landing-demo/",
+  "scope": "/studio-landing-demo/",
+  "display": "standalone",
+  "background_color": "#07090b",
+  "theme_color": "#07090b",
+  "icons": [
+    {
+      "src": "/studio-landing-demo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/studio-landing-demo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/studio-landing-demo/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
